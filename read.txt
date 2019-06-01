@@ -7,3 +7,5 @@ dev A 修改了
 devB 修改了1
 >>>>>>> devB
 Creating a new branch is quick and simple.
+
+AAAAAAAAAAAAAAAAAAAAAA
